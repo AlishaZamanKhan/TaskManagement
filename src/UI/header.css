@@ -1,0 +1,40 @@
+.header {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: row;
+	background-color: rgb(52, 116, 153);
+}
+
+.header-right {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	background-color: blue;
+}
+.header-left {
+	display: flex;
+	flex-direction: row;
+}
+
+.header-user {
+	align-items: center;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.header-user p {
+	background-color: aquamarine;
+}
+
+.header-button {
+	margin: 10px 0 15px 10px;
+	color: rgb(242, 242, 242);
+	height: 40px;
+	width: 110px;
+	font-size: 20px;
+	border: none;
+	cursor: pointer;
+	background-color: rgb(64, 138, 182);
+	border-radius: 6px;
+}

@@ -1,0 +1,36 @@
+.login-header {
+	font-size: 30px;
+	color: rgb(52, 116, 153);
+	padding: 20px 20px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.login-input {
+	margin: 25px;
+	border-radius: 2px;
+	color: rgb(52, 116, 153);
+	/* size: 500px; */
+	/* padding: 20px 70px;  */
+	flex: 3;
+	font-family: "Roboto", sans-serif;
+	color: rgb(52, 116, 153);
+	font-size: 2rem;
+	margin: 10px 10px;
+	padding: 20px 10px 20px 10px;
+	border-radius: 0.4rem;
+	background-color: rgb(255, 255, 255);
+	width: 100%;
+	border-color: rgb(139, 187, 215);
+	margin-bottom: 80px;
+}
+
+.submit-button {
+	background-color: rgb(52, 116, 153);
+	border-radius: 10px;
+	padding: 20px 100px;
+	color: aliceblue;
+	margin-top: 30px;
+	font-size: larger;
+	font-weight: bolder;
+}
